@@ -32,7 +32,7 @@ To run this project, you'll need the following software installed on your system
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/DevRohit06/Portfolio-website.git
+   git clone https://github.com/ojasvars0308/portfolio
    ```
 
 2. Change into the project directory:
