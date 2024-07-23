@@ -18,7 +18,7 @@ const data = [
     {
         name: "Portfolio Website",
         type: "Website",
-        url: "https://rohitk06.site/",
+        url: "https://vojas-site-18.vercel.app/",
         github: "https://github.com/ojasvars0308/portfolio",
         image: Portfolio,
         slug: "portfolio",

@@ -11,7 +11,7 @@ import playformCompress from "@playform/compress";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://www.rohitk06.site",
+  site: "https://vojas-site-18.vercel.app/",
   prefetch: true,
   markdown: {
     ...markdownConfig
@@ -31,7 +31,7 @@ export default defineConfig({
       forward: ["dataLayer.push"]
     }
   }), robotsTxt({
-    sitemap: ['https://www.rohitk06.site/sitemap-0.xml', 'http://www.rohitk06.site/sitemap-index.xml']
+    sitemap: ['https://vojas-site-18.vercel.app//sitemap-0.xml', 'https://vojas-site-18.vercel.app//sitemap-index.xml']
   }), playformCompress()]
   // output: "server",
   // adapter: vercel({
